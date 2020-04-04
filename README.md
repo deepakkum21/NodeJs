@@ -14,3 +14,6 @@ Demo Project to learn NodeJs
 
 ## MVC Summary
 ![mvc](https://github.com/deepakkum21/NodeJs/blob/master/Images/MVC1.PNG) 
+
+## Sql VS NoSql
+![Sql/NoSql](https://github.com/deepakkum21/NodeJs/blob/master/Images/SQL_VS_NoSQL.PNG)
