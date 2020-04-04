@@ -8,3 +8,6 @@ Demo Project to learn NodeJs
 ![picture](https://github.com/deepakkum21/NodeJs/blob/master/Images/Templating%20Engines.PNG)
 
 ![picture](https://github.com/deepakkum21/NodeJs/blob/master/Images/Available%20Templating%20Engines.PNG)
+
+## MVC
+![mvc](https://github.com/deepakkum21/NodeJs/blob/master/Images/MVC.PNG)
