@@ -11,3 +11,6 @@ Demo Project to learn NodeJs
 
 ## MVC
 ![mvc](https://github.com/deepakkum21/NodeJs/blob/master/Images/MVC.PNG)
+
+## MVC Summary
+![mvc](https://github.com/deepakkum21/NodeJs/blob/master/Images/MVC1.PNG) 
