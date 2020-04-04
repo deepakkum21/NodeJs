@@ -17,3 +17,5 @@ Demo Project to learn NodeJs
 
 ## Sql VS NoSql
 ![Sql/NoSql](https://github.com/deepakkum21/NodeJs/blob/master/Images/SQL_vs_NoSQL.PNG)
+
+### https://academind.com/learn/web-dev/sql-vs-nosql/
