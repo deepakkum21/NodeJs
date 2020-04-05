@@ -24,3 +24,6 @@ Demo Project to learn NodeJs
 ![Sequelize](https://github.com/deepakkum21/NodeJs/blob/master/Images/sequelize.png) 
 ![Sequelize](https://github.com/deepakkum21/NodeJs/blob/master/Images/sequelize%20core_concepts.PNG) 
 ![Sequelize](https://github.com/deepakkum21/NodeJs/blob/master/Images/sequelize_association.png)
+
+## Cookie
+![Cookie](https://github.com/deepakkum21/NodeJs/blob/master/Images/Cookie.png)
