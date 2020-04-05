@@ -30,3 +30,6 @@ Demo Project to learn NodeJs
 
 ## Session
 ![Session](https://github.com/deepakkum21/NodeJs/blob/master/Images/session.png)
+
+## Session Vs Cookie Use
+![Session_Cookie_Use](https://github.com/deepakkum21/NodeJs/blob/master/Images/Session_Cookie_Use.png)
