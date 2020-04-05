@@ -19,3 +19,7 @@ Demo Project to learn NodeJs
 ![Sql/NoSql](https://github.com/deepakkum21/NodeJs/blob/master/Images/SQL_vs_NoSQL.PNG)
 
 ### https://academind.com/learn/web-dev/sql-vs-nosql/
+
+## Sequelize
+![Sequelize](https://github.com/deepakkum21/NodeJs/blob/master/Images/sequelize.png) 
+![Sequelize](https://github.com/deepakkum21/NodeJs/blob/master/Images/sequelize%20core_concepts.PNG) 
