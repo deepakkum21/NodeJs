@@ -23,7 +23,7 @@ module.exports = class Product {
     return db.execute('SELECT * FROM products');
   }
 
-  static findById(id) {
+  static findByPk(id) {
     
   }
 };
