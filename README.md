@@ -48,3 +48,6 @@ Demo Project to learn NodeJs
 
 ## Working With Errors
 ![Working With Errors](https://github.com/deepakkum21/NodeJs/blob/master/Images/working_with_errors.png)
+
+## Error And Http Response Codes
+![Error And Http Response Codes](https://github.com/deepakkum21/NodeJs/blob/master/Images/Error_and_http_response_code.png)
