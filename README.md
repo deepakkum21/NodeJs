@@ -26,7 +26,7 @@ Demo Project to learn NodeJs
 ![Sequelize](https://github.com/deepakkum21/NodeJs/blob/master/Images/sequelize_association.png)
 
 ## Cookie
-![Cookie](https://github.com/deepakkum21/NodeJs/blob/master/Images/Cookie.png)
+![Cookie](https://github.com/deepakkum21/NodeJs/blob/master/Images/cookie.png)
 
 ## Session
 ![Session](https://github.com/deepakkum21/NodeJs/blob/master/Images/session.png)
@@ -42,3 +42,6 @@ Demo Project to learn NodeJs
 
 ## Auth Key Point
 ![Auth Key Point](https://github.com/deepakkum21/NodeJs/blob/master/Images/auth_password_reset_key_point.png)
+
+## Validation
+![Validation](https://github.com/deepakkum21/NodeJs/blob/master/Images/Validation.png)
