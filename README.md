@@ -35,4 +35,7 @@ Demo Project to learn NodeJs
 ![Session_Cookie_Use](https://github.com/deepakkum21/NodeJs/blob/master/Images/Session_Cookie_Use.png)
 
 ## CSRF
-![## CSRF](https://github.com/deepakkum21/NodeJs/blob/master/Images/CSRF.png)
+![CSRF](https://github.com/deepakkum21/NodeJs/blob/master/Images/CSRF.png)
+
+## Auth Module Summary
+![Auth Module Summary](https://github.com/deepakkum21/NodeJs/blob/master/Images/auth_module_summary.png)
