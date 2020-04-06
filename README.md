@@ -45,3 +45,6 @@ Demo Project to learn NodeJs
 
 ## Validation
 ![Validation](https://github.com/deepakkum21/NodeJs/blob/master/Images/Validation.png)
+
+## Working With Errors
+![Working With Errors](https://github.com/deepakkum21/NodeJs/blob/master/Images/working_with_errors.png)
