@@ -39,3 +39,6 @@ Demo Project to learn NodeJs
 
 ## Auth Module Summary
 ![Auth Module Summary](https://github.com/deepakkum21/NodeJs/blob/master/Images/auth_module_summary.png)
+
+## Auth Key Point
+![Auth Key Point](https://github.com/deepakkum21/NodeJs/blob/master/Images/auth_password_reset_key_point.png)
