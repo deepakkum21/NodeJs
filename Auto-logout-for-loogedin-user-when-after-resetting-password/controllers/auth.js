@@ -12,7 +12,7 @@ const transporter = nodemailer.createTransport(
   sendgridTransport({
     auth: {
       api_key:
-        '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'
+        ''
     }
   })
 );
@@ -273,6 +273,14 @@ exports.postNewPassword = (req, res, next) => {
       return Session.deleteMany({ 'session.user.email': email });
     })
     .then(result => {
+      transporter.sendMail({
+        to: email,
+        from: 'shop@node-complete.com',
+        subject: 'Password reset Successful',
+        html: `
+          <p>You successfully resetted your password</p>
+        `
+      });
       res.redirect('/login');
     })
     .catch(err => {
